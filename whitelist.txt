@@ -1,0 +1,16 @@
+@@|minecraft.net^$important
+@@|session.minecraft.net^$important
+@@|account.mojang.com^$important
+@@|authserver.mojang.com^$important
+@@|sessionserver.mojang.com^$important
+@@|api.mojang.com^$important
+@@|textures.minecraft.net^$important
+@@|mojang.com^$important
+@@|gamepass.com^$important
+@@||xbox.com^$important
+@@||xboxlive.com^$important
+@@||live.com^$important
+@@||msfauth.net^$important
+@@||azureedge.net^$important
+@@||minecraft-services.net^$important
+@@||family.microsoft.com^$important
